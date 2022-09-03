@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imagur/static/css/main.647a7e73.css",
+    "main.js": "/imagur/static/js/main.e3d1ecaa.js",
+    "index.html": "/imagur/index.html",
+    "main.647a7e73.css.map": "/imagur/static/css/main.647a7e73.css.map",
+    "main.e3d1ecaa.js.map": "/imagur/static/js/main.e3d1ecaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.647a7e73.css",
+    "static/js/main.e3d1ecaa.js"
+  ]
+}
